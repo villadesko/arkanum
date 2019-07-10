@@ -1,0 +1,39 @@
+img {
+    width: 1250px;
+    height: 390px;
+    border: solid 1px;
+    border-radius: 20px;
+    border-color:darkgoldenrod;
+}
+p{
+    color: whitesmoke;
+    font-family: monospace;
+}
+
+h1 {
+    font-family: monospace;
+    color: whitesmoke;
+}
+
+h2 {
+    font-family: monospace;
+    color: whitesmoke;
+    
+}
+
+h3 {
+    font-family: monospace;
+    color:whitesmo90
+    
+}
+
+body{
+    background-color:firebrick;
+    width: 1250px;
+    height: 3050px;
+    border: solid 3px;
+    border-radius: 20px;
+    border-color: whitesmoke;
+    font-family: monospace;
+    color:whitesmoke;
+}
