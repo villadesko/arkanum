@@ -1,0 +1,152 @@
+.topo{
+    background-color: black;
+    width: 1250px;
+    height: 300px;
+    border: solid 10px;
+    border-radius: 20px;
+    border-color: #CD950C;
+    margin: auto;
+}
+
+.topo img {
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 2px;
+    width: 1250px;
+    height: 290px;
+    border-radius: 20px;
+}
+
+.dados-livro {
+    background-color: black;
+    border-radius: 20px;
+    width: 1250px;
+    height: 90px;
+    text-align: center;
+    border: solid 10px;
+    border-color: #CD950C;
+    width: 1250px;
+    height: 190px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.dados-livro h1{
+    color: #EEDD82;
+    font-family: fantasy;
+    text-align: center;
+    font-size:50px;
+    
+}
+
+.dados-livro h2{
+    color: #EEDD82;
+    font-family:cursive;
+    text-align: center;
+}
+
+
+.conteudo {
+    background-color: black;
+    border-radius: 20px;
+    border-style: solid 10px;
+    border: solid 10px;
+    border-color: #CD950C;
+    width: 1250px;
+    height: 190px;
+    text-align:justify;
+    width: 1250px;
+    height: 2750px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.conteudo h2{
+    color: #EEDD82;
+    font-family:cursive;
+    text-align: center;
+}
+
+.conteudo h3{
+    color: #EEDD82;
+    font-family: cursive;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.conteudo p{
+    color: grey;
+    font-family: monospace;
+    font-size:13px;
+    margin-left: 20px;
+    margin-right: 20px;
+    line-height: 16px;
+}
+
+.capitulos {
+    background-color: black;
+    border-radius: 20px;
+    border-style: solid 10px;
+    border: solid 10px;
+    border-color: #CD950C;
+    width: 1250px;
+    height: 90px;
+    text-align:center;
+    width: 1250px;
+    height: 50px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.capitulos h3{
+    color: #EEDD82;
+    font-family: cursive;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.info {
+    background-color: black;
+    border-radius: 20px;
+    border: solid 10px;
+    border-color: #CD950C;
+    width: 1250px;
+    height: 150px;
+    text-align:center;
+    width: 1250px;
+    height: 350px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.info h3{
+    color: #EEDD82;
+    font-family: cursive;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.info a {
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.info img{
+    width: 300px;
+    height: 200px;
+    border: solid 1px;
+    border-radius: 20px;
+    border-color: #CD950C;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+body{
+    background-color: #1C1C1C;
+}
